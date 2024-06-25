@@ -1,4 +1,4 @@
-package org.example.servlet.controller.admin;
+package controller.admin;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;

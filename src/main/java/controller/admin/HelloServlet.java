@@ -1,4 +1,4 @@
-package org.example.servlet.controller.admin;
+package controller.admin;
 
 import java.io.*;
 
